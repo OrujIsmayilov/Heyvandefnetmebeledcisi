@@ -1,0 +1,30 @@
+.arrow{
+    width: 5%;
+    margin-left: 5%;
+}
+
+#basliq{
+    color:whitesmoke;
+    border-style: groove;
+    text-align: center;
+    width: 60%;
+    background-color: blue;
+    align-self: center;
+    align-items: center;
+    margin-left: 25%;;
+
+}
+
+#carouselExampleIndicators{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 15%;
+    text-align: center;
+    background-color: black;
+    border-radius: 4%;
+    border: 4%;
+
+}
+.dropdown{
+    ma
+}

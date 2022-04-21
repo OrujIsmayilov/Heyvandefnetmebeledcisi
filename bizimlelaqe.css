@@ -1,0 +1,46 @@
+
+.arrow{
+    width: 5%;
+    margin-left: 5%;
+}  
+
+h2{
+    text-align: center;
+    border-style: groove;
+    border-radius: 2%;
+    border-width: 2%;
+    border-left: 25%;
+    width: 45%;
+    background-color: blue;
+    margin-left: 25%;
+    height: 30%;
+
+}
+
+#navig{
+  display: inline-flex;
+  place-items: center;
+  text-align: center;
+  margin-top: 10%;
+  color: blue;
+  border-color: blue;
+  
+  
+}
+#navig{
+  display: inline-flex;
+  place-items: center;
+  text-align: center;
+  margin-top: 10%;
+  color: blue;
+  border-color: blue;
+  margin-left: 12%;
+  
+  
+}
+
+P{
+    color: rebeccapurple;
+    height: 10%;
+    width: 10%;
+}
